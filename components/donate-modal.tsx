@@ -20,8 +20,8 @@ import { toast } from "sonner";
 const DONATE_METHODS = [
     {
         id: "donate",
-        name: "Donate Link",
-        link: "https://abc.paypal.com/demo",   // TODO: replace with real donate link
+        name: "Buy Me a Coffee",
+        link: "https://buymeacoffee.com/unitoollive",
         color: "text-pink-500",
         bgColor: "bg-pink-500/10",
         borderColor: "border-pink-500/30",
